@@ -77,7 +77,7 @@ Ethalorian presented a repository for contributions and emphasized the need for 
 
 ## 4. GitHub Organization Structure
 
-- Review proposed structure for LBA information on GitHub
+- Review the proposed structure for LBA information on GitHub
 - Discuss transparency and engagement strategies
 - Plan for migrating existing documents
 
@@ -104,12 +104,12 @@ Ethalorian presented a repository for contributions and emphasized the need for 
 
 ### Discussion:
 
-Jonathan Wan inquired about Luxo's involvement in ETHenver and the next steps for project development.
+Jonathan Wan inquired about LUKSO's involvement in ETHenver and the next steps for project development.
 
 ### Action Items:
 
 - Work on documentation for the pitchable state of the project.
-- Jonathan will research accommodation options for DEF CON and explore the idea of bringing the community to the event.
+- Jonathan will research accommodation options for DEV CON and explore the idea of bringing the community to the event.
 
 ## 8. Action Items and Next Steps
 
