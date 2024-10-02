@@ -28,30 +28,12 @@ We invite you to explore this repository, engage with the content, and join us i
 
 ---
 
-<table width="100%" style="border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th colspan="3" style="text-align: center; font-size: 1.5em; padding: 10px; background-color: #f0f0f0;">LBA NOTES</th>
-    </tr>
-    <tr>
-      <th style="text-align: center; padding: 10px; border: 1px solid #ddd;">Meeting Title</th>
-      <th style="text-align: center; padding: 10px; border: 1px solid #ddd;">Agenda</th>
-      <th style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recording</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">Oct 2, 2024 LBA Meeting</td>
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="Meeting-Notes/Meeting-2.md">Agenda</a></td>
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://example.com/recording1">Video</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">Sep 25, 2024 LBA Meeting</td>
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="Meeting-Notes/Meeting-1.md">Agenda</a></td>
-      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://example.com/recording2">Video</a></td>
-    </tr>
-  </tbody>
-</table>
+# LBA NOTES
+
+| Meeting Title | Agenda | Recording |
+|---------------|:------:|:---------:|
+| Oct 2, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-2.md) | [Video](https://example.com/recording1) |
+| Sep 25, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-1.md) | [Video](https://example.com/recording2) |
 
 
 
