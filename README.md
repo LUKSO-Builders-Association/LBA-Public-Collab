@@ -30,6 +30,8 @@ We invite you to explore this repository, engage with the content, and join us i
 
 | Meeting Title | Agenda | Recording |
 |---------------|--------|-----------|
-| Oct 2, 2024 LBA Meeting | [Agenda](./agendas/2024-10-02.md) | [Video](https://example.com/recording1) |
-| Sep 25, 2024 LBA Meeting | [Agenda](./agendas/2024-09-25.md) | [Video](https://example.com/recording2) |
-| Sep 18, 2024 LBA Meeting | [Agenda](./agendas/2024-09-18.md) | [Video](https://example.com/recording3) |
+| Oct 2, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-2.md) | [Video](https://example.com/recording1) |
+| Sep 25, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-1.md) | [Video](https://example.com/recording2) |
+
+
+
