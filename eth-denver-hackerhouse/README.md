@@ -1,6 +1,6 @@
 <div align="center">
 
-# ETH DENVER HACKERHOUSE ACTIVATION
+# ETH DENVER HACKERHOUSE (Proposed)
 
 </div>
 
