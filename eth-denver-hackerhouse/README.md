@@ -1,5 +1,7 @@
-<div align="center"> 
+<div align="center">
 
-#ETH DENVER HACKERHOUSE ACTIVATION
+# ETH DENVER HACKERHOUSE ACTIVATION
 
 </div>
+
+
