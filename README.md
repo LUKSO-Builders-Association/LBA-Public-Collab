@@ -2,10 +2,10 @@
 
 # LUKSO BUILDERS ASSOCIATION
 <br>
-
+#### Public Coordination Repository
 </div>
 
-## Public Coordination Repository
+
 
 
 Welcome to the collaborative hub for the LUKSO Builders Association (LBA). This repository serves as a central location for notes, meeting records, and public coordination of our efforts and initiatives.
