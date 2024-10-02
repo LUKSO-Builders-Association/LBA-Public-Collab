@@ -6,7 +6,7 @@
 
 </div>
 
-
+</br>
 
 
 Welcome to the collaborative hub for the LUKSO Builders Association (LBA). This repository serves as a central location for notes, meeting records, and public coordination of our efforts and initiatives.
