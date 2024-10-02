@@ -1,7 +1,6 @@
 <div align="center">
 
 # LUKSO BUILDERS ASSOCIATION
-<br>
 
 #### Public Coordination Repository
 
