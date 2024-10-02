@@ -7,7 +7,7 @@ Time zone: America/New_York
 
 ## 1. Review Minutes from Previous Meeting (Sep 25, 2024)
 
-- Attendees: Jordy, Ethalorian, Fawn, Tanto, Booste, Presto, Jak, Sage
+- Attendees: Jordy, Ethalorian, Fawn, Booste, Presto, Jak, Sage, Jonathan, Marcus
 - Quick overview of key points and decisions
 - Any corrections or additions to the minutes
 
