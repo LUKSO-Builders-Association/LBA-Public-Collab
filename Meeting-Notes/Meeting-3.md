@@ -6,6 +6,7 @@ Wednesday, October 9 · 2:00 – 3:00pm
 Time zone: America/New_York
 
 ## 1. Review Minutes from Previous Meeting (Oct 2, 2024)
+- Attendees: Jordy's AI ;), Ethalorian, Fawn, Jak, Sage, Marcus, Tantodefi
 - Quick overview of key points and decisions
 - Any corrections or additions to the minutes
 
