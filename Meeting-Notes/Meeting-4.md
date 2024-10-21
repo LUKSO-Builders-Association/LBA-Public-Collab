@@ -1,7 +1,7 @@
 # LBA Agenda
 
-**Date**: Oct 9, 2024  
-**Google Meet**: LBA Meeting Wednesday, October 9 · 2:00 – 3:00pm  
+**Date**: Oct 22, 2024  
+**Google Meet**: LBA Meeting Wednesday, October 22 · 2:00 – 3:00pm  
 **Time zone**: America/New_York
 
 ---
