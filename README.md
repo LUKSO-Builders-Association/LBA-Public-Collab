@@ -30,12 +30,9 @@ We invite you to explore this repository, engage with the content, and join us i
 
 # LBA NOTES
 
-| Meeting Title | Agenda | 
-|---------------|:------:|:---------:|
-| Oct 22, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-4.md) | 
-| Oct 9, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-3.md) | 
-| Oct 2, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-2.md) | 
-| Sep 25, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-1.md) | 
-
-
-
+| Meeting Title | Agenda |
+|--------------|--------|
+| Oct 22, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-4.md) |
+| Oct 9, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-3.md) |
+| Oct 2, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-2.md) |
+| Sep 25, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-1.md) |
