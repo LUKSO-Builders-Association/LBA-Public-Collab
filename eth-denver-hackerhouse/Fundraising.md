@@ -30,6 +30,8 @@
  * House banners/posters
  * LUKSO account promotion
  * Project bounties
+ * Outside of WEB3
+ * Sponsors for Coffee (Goods)
 
 #### Potential Sponsors
 * FWB
