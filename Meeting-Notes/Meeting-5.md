@@ -38,15 +38,19 @@ The conversation shifted to strategies for attracting new developers and fosteri
 ---
 
 ## 6. New Business / Open Floor
-
+  - Office Hours for developers and founders?
 ---
 
 ## 7. Action Items and Next Steps
-
+  - ETH - Meeting notes into the repo
+  - Marcus - Develop a list of companies that we could potentially target
+  - Sage - Work on fundraising packages
+  - Fawn - Office hours brainstorming/planning
+  - ETH - Draw attention to the discussion forums on the github repo 
 ---
 
 ## 8. Next Meeting
 
----  October 29th, 2024 2pm EST
+---  November 5th, 2024 2pm EST
 
 ## 9. Adjournment
