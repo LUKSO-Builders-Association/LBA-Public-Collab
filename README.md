@@ -32,6 +32,8 @@ We invite you to explore this repository, engage with the content, and join us i
 
 | Meeting Title | Agenda |
 |--------------|--------|
+| Nov 5, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-6.md) |
+| Oct 29, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-5.md) |
 | Oct 22, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-4.md) |
 | Oct 9, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-3.md) |
 | Oct 2, 2024 LBA Meeting | [Agenda](Meeting-Notes/Meeting-2.md) |
