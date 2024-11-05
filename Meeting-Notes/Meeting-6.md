@@ -27,6 +27,7 @@ The team addressed logistical aspects, including the urgency of securing a venue
 ---
 
 ## 4. Sponsorship Packages (Sage)
+https://docs.google.com/document/d/1NZNskgemlw8Tf3c_oBRSk02muChQtZhCcCA3ycwevyw/edit?tab=t.0#heading=h.2n23lzanoczn
 ---
 
 ## 5. How do we book the venue for Denver?
