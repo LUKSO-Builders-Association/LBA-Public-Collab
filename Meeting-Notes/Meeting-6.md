@@ -36,12 +36,17 @@ https://docs.google.com/document/d/1NZNskgemlw8Tf3c_oBRSk02muChQtZhCcCA3ycwevyw/
 ## 6. New Business / Open Floor
   - A Move to Roberts Rules for Meeting Efficiency
   - Election of potential executive board
-
   - Meeting during Devcon?
+    
   
 ---
 
 ## 7. Action Items and Next Steps
+  - Fawn - Website 
+  - Marcus / Sage - Sponsorships 
+  - Eth - Notes / Agenda
+
+    
  
 ---
 
