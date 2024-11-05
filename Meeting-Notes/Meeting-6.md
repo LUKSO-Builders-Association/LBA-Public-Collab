@@ -18,7 +18,8 @@ The team addressed logistical aspects, including the urgency of securing a venue
   - Marcus - Develop a list of companies that we could potentially target
   - Sage - Work on fundraising packages
   - Fawn - Office hours brainstorming/planning
-  - ETH - Draw attention to the discussion forums on the github repo 
+  - Fawn will speak to Jean to see if he can participate in the meetings once a month.
+
 
 ---
 
