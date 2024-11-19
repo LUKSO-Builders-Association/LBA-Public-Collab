@@ -5,6 +5,11 @@
 **Time zone**: America/New_York
 
 ## 1. New Business / Open Floor    
+- Hybrid House Idea - Bringing together
+- Akindo - Hybrid Hacker Communtiy - japan 
+- Antonio - Local activations in Mexico 
+- 
+
 ---
 
 ## 2. Next Meeting
