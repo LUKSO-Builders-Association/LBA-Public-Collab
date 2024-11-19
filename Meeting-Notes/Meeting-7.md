@@ -20,10 +20,7 @@
 ## 4. How do we book the venue for Denver?
 ---
 
-## 5. New Business / Open Floor
-  - A Move to Roberts Rules for Meeting Efficiency
-  - Election of potential executive board
-  - Meeting during Devcon?      
+## 5. New Business / Open Floor    
 ---
 
 ## 6. Next Meeting
