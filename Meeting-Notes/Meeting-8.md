@@ -14,6 +14,7 @@
 - https://assembly.cornell.edu/sites/default/files/roberts_rules_simplified.pdf
 - Nomination Procedure / Election Procedure of the Executive Board for administrative tasks
 - Code of Conduct Introduction and Read-Through
+- https://github.com/LUKSO-Builders-Association/LBA-Public-Collab/blob/main/Code%20of%20Conduct
 
 ## 3. Clarification of Short-Term Objectives Beyond Internal Governance
 - Branding / Identity Discussion as pertains to pitch deck and fundraising (Limited scope)
