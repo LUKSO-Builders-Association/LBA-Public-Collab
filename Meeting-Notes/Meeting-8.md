@@ -21,6 +21,11 @@
 - Hybrid House commitments and coordination with FNCE
 
 ## 4. New Business / Open Floor
+
+- Action Steps -
+- Ethalorian - Nomination Form
+- Potential Roles
+- Chairperson, Timekeeper, Vice-Chair 
 ---
 
 =======
@@ -28,6 +33,8 @@
 
 ---  December 3rd, 2024 2:00pm EST
 For any additions to the meeting agenda, please DM @ethalorian for inclusion.
+
+
 
 ## 6. Adjournment
 
