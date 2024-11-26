@@ -25,9 +25,20 @@
 - Action Steps -
 - Ethalorian - Nomination Form
 - Potential Roles
-- Chairperson, Timekeeper, Vice-Chair 
----
+- Chairperson
 
+- Website / Branding (Vice Chair ( Fawn )) - Report Out Tuesday December 3,2024 | 
+  - Marcus
+  - Kev
+
+- ETHDenver ( Vice Chair ( )) - Report Out Tuesday December 3,2024 | 
+
+OKR Potentials
+- Onboard (x) projects in (y) months  *** North Star ***
+  
+Main Goals 
+  - Website
+  - ETHDenver
 =======
 ## 5. Next Meeting
 
