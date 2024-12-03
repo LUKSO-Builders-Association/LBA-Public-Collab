@@ -13,6 +13,7 @@
 
 ### OKR Potentials
 - Onboard (x) projects in (y) months  *** North Star ***
+- Office Hours
 
 - Report out
 - - Website / Branding (Vice Chair ( Fawn )) - Report Out Tuesday December 3,2024 | 
