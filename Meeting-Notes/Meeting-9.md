@@ -4,7 +4,7 @@
 **Google Meet**: LBA Meeting Tuesday, Dec 3rd, 2024 · 2:00 – 3:00pm  
 **Time zone**: America/New_York
 
-## 1. Review of Meeting 7   
+## 1. Review of Meeting 9   
 - Ethalorian will assume the role of Chairperson
 - Website/Branding (Vice-Chair Fawn)
 
